@@ -36,7 +36,6 @@ This makes PostgreSQL ideal for use in real-world enterprise applications, such 
 | SQL Queries                     | SELECT, JOINs, GROUP BY, aggregate functions                              |
 | PL/pgSQL                        | Functions, procedures, triggers                                           |
 | Performance Tuning              | Indexes, `EXPLAIN ANALYZE`, vacuum strategies                            |
-| PostgreSQL with Java            | JDBC and Spring Boot integration with PostgreSQL                         |
 
 ---
 
